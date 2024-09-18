@@ -1,0 +1,6 @@
+# Test binary, built with `go test -c`
+*.test
+# Output of the go coverage tool
+*.out
+# Vendor directories (for devs that prefer using it locally)
+vendor/
